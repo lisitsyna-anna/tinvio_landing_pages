@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tinvio_landing_pages/static/css/main.7acaea2f.css",
+    "main.js": "/tinvio_landing_pages/static/js/main.07d3183d.js",
+    "index.html": "/tinvio_landing_pages/index.html",
+    "main.7acaea2f.css.map": "/tinvio_landing_pages/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/tinvio_landing_pages/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
